@@ -1,8 +1,0 @@
-Flask
-langchain
-langchain-community
-langchain-groq
-python-dotenv
-fastembed
-pdfplumber
-chromadb
